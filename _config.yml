@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: rizwaan.akhtar91@gmail.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: RizwaanAkhtar91
 github_username: RizwaanAkhtar
 markdown: kramdown
